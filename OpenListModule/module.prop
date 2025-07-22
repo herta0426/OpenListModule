@@ -1,0 +1,8 @@
+id=OpenListModule
+name=OpenList模块 (非官方)
+version=20250615
+versionCode=20250615
+author=Herta
+description=一键部署 OpenList 服务 | 本地Web管理界面 | 安全密码重置 | 自动启动服务 | 本模块与 OpenList 官方团队无关
+support=https://github.com/herta0426/OpenListModule
+minMagisk=24000
