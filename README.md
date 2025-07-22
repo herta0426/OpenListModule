@@ -1,11 +1,11 @@
 # OpenListModule （Magisk/通用模块）
 
-自动部署 OpenList 服务，支持本地 Web 管理、密码重置、自动守护。兼容 Magisk、KSU、APatch 等主流模块管理器。
+自动部署 OpenList 服务，支持本地 Web 管理、密码重置、自动守护。兼容主流管理器。
 
 ## openlist 来源与协议
 
 - openlist 官方仓库：[https://github.com/OpenListTeam/OpenList/](https://github.com/OpenListTeam/OpenList/)
-- 最新 release 自动拉取，源码及编译方法见官方仓库和 release 页面。
+- 源码及编译方法见官方仓库和 release 页面。
 - 本模块所有脚本及集成方法同样遵循 AGPL-3.0 协议。
 
 ## 使用方法
